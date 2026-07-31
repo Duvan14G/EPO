@@ -1,2 +1,2 @@
 # EPO
-MD protocols and trajectories
+MD protocols, DSSP average and LIE results
